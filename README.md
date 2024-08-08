@@ -1,0 +1,2 @@
+# Load-driven-oter-Speed-Control-of-a-Conveyor-Using-PID-Controller-and-Shorting-The-items-
+In modern manufacturing and logistics, optimizing conveyor systems for efficiency and precision is crucial. This study presents a load-driven motor speed control system for conveyor belts, utilizing a Proportional- Integral-Derivative (PID) controller to dynamically adjust motor speed based on real-time load conditions. 
